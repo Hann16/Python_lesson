@@ -1,4 +1,4 @@
 # Python Lesson
-Author: Steffi
-Date: 20190919
+Author: Steffi Hann
+Date: 2019-09-19
 
